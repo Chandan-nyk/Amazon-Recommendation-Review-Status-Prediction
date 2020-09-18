@@ -1,4 +1,4 @@
-# Amazon-Fake-Review-Analysis
+# Amazon-Recommendation Status Prediction
 This project focusses on the following areas :
 
 1. Analysis of the dataset
